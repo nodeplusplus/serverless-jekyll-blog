@@ -1,0 +1,11 @@
+{
+  "name": "blog.nodeplusplus.com",
+  "description": "My Personal blog",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-dotenv-plugin": "^2.1.1",
+    "serverless-pseudo-parameters": "^2.5.0",
+    "serverless-s3-sync": "^1.9.2"
+  }
+}
